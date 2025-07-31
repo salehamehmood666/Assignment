@@ -1,1 +1,1 @@
-# Assignment
+In this project, I used an AI agent to perform sentiment analysis on Amazon customer reviews of the popular Stanley Cup. The purpose was to evaluate customer satisfaction, detect sentiment trends, and identify commonly mentioned features using natural language processing techniques.
