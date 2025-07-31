@@ -1,0 +1,50 @@
+
+STANLEY CUP AMAZON REVIEWS ANALYSIS REPORT
+Generated on: 2025-07-27 11:43:36
+
+EXECUTIVE SUMMARY:
+- Total Reviews Analyzed: 51
+- Average Rating: 4.06/5
+- Overall Sentiment: Positive (70.6%)
+
+DETAILED FINDINGS:
+
+1. RATING DISTRIBUTION:
+   1★: 5 reviews (9.8%)
+   2★: 4 reviews (7.8%)
+   3★: 6 reviews (11.8%)
+   4★: 4 reviews (7.8%)
+   5★: 32 reviews (62.7%)
+
+2. SENTIMENT ANALYSIS:
+   Positive: 36 reviews (70.6%)
+   Negative: 9 reviews (17.6%)
+   Neutral: 6 reviews (11.8%)
+
+3. MOST COMMON WORDS:
+   quality: 10 times
+   perfect: 9 times
+   cold: 8 times
+   great: 8 times
+   stanley: 7 times
+   keeps: 7 times
+   drinks: 6 times
+   hours: 6 times
+   cup: 5 times
+   not: 5 times
+
+4. KEY INSIGHTS:
+   • High customer satisfaction with product quality
+   • Strong positive sentiment across reviews
+   • Verified purchase rate indicates authentic feedback
+   • Some concerns about price and weight
+   • Durability and insulation highly praised
+
+5. RECOMMENDATIONS:
+   • Continue emphasizing quality and durability
+   • Address pricing concerns in marketing
+   • Highlight verified purchase authenticity
+   • Focus on insulation and handle features
+   • Monitor negative feedback for product improvements
+
+This analysis is based on 51 Amazon reviews of the Stanley Cup product.
